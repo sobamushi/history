@@ -52,4 +52,14 @@
 		<photo_loc>Camping</photo_loc>
 		<thumb_caption>Starfish</thumb_caption>
 	</photo>
+	<photo id="5">
+		<filename>2012-kitty.jpg</filename>
+		<geo>
+			<lat>49.28269874768049</lat>
+			<lon>-123.11535649001598</lon>
+		</geo>
+		<photo_city>Vancouver, BC</photo_city>
+		<photo_loc>School</photo_loc>
+		<thumb_caption>Kitty Cat</thumb_caption>
+	</photo>
 </album>
